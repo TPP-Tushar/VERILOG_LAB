@@ -1,0 +1,34 @@
+Lab 1: Verilog Data Types
+
+    1.1Nets vs. Variables (wire vs. reg)
+    1.2Vectors
+    1.3Part-Selects & Bit-Selects
+    1.4Integer, Real, and Time
+    1.5Signed Numbers
+    1.6Parameters
+    1.7Arrays (Memories)
+    1.8Strings
+    1.9Special Net Types (tri, wand, wor)
+    1.10Driving Strengths
+
+Lab 2: Procedural Blocks
+    2.1The initial Block
+    2.2The always @(*) Block
+    2.3The always @(posedge clk) Block
+
+Lab 3: Loops
+    3.1The for Loop
+    3.2forever and repeat Loops
+
+Lab 4: Conditional Logic (if-else)
+    4.1Priority Logic
+    4.2Avoiding Inferred Latches
+
+Lab 5: case Statements
+    5.1Parallel Logic
+    5.2State Machine Control
+    5.3Handling "Don't Cares"
+
+Lab 6: Functions and Tasks
+    6.1Reusable Calculations: function
+    6.2Reusable Procedures: task
